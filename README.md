@@ -15,8 +15,3 @@ From experimenting with machine learning models to developing creative side proj
 * 💻 Presently working on: **N/A**
 * 🌍 Languages I know: **Java, Python, MySQL**
 * 📫 Reach me at: **sjsshayanahmed7a@gmail.com**
-
-
-## Connect With Me 📬
-
-
